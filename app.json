@@ -10,8 +10,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "website": "https://github.com/LEGEND-OS/LEGENDBOT/",
+  "repository": "https://github.com/Kajal74960/LEGENDBOT/",
+  "website": "https://github.com/kajal74960/LEGENDBOT/",
   "success_url": "https://t.me/Legend_Userbot",
   "env": {
     "ENV": {
@@ -33,7 +33,7 @@
       "value": "",
       "required" :true
     },
-    "EXTRA_PLUGIN": {
+    "EXTRA_PLUGIN": {j
       "description": "Set ON or OFF",
       "value": "",
       "required" :true
